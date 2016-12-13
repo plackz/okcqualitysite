@@ -1,6 +1,6 @@
 h1 a {
   color: #003366;
-  /* font-family: 'Lobster'; */
+  font-family: 'Oswald';
 }
 
 body {
@@ -24,7 +24,7 @@ body {
 }
 
 h1, h2, h3, h4 {
-    /* font-family: 'Lobster', cursive; */
+    font-family: 'Oswald';
 }
 
 .date {
